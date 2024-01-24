@@ -12,10 +12,11 @@ const InternationalWealthList = () => {
       show: true,
       text: "IWI Score(0-100)",
       bottom: 30,
-      left: "50%",
+      left: "40%",
       textStyle: {
         color: "rgb(160,160,160)",
-        fontWeight: 400
+        fontWeight: 400,
+        fontSize:20
       },
       
     },
@@ -34,6 +35,7 @@ const InternationalWealthList = () => {
       formatter: function (name: string) {
         return ` {count|${name}}`;
       },
+      itemGap: 20,
       textStyle: {
         rich: {
           'count': {
@@ -81,7 +83,7 @@ const InternationalWealthList = () => {
         }
       }
     ],
-    grid:{bottom:90},
+    grid:{bottom:100},
     series: chartData.villages.map((item: IBarColumn) => ({
       name: item.name,
       type: 'bar',

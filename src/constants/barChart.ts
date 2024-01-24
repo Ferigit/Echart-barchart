@@ -20,11 +20,11 @@ export const chartData = {
     data: [11, 27, 25, 45, 15],
     avg: 32.4,
   }, {
-    name: 'Village 5',
+    name: 'Village 4',
     data: [9, 49, 54, 25, 8],
     avg: 18.9
   }, {
-    name: 'Village 6',
+    name: 'Village 5',
     data: [9, 49, 54, 25, 8],
     avg: 32.1,
   }]
