@@ -32,7 +32,7 @@ const InternationalWealthList = () => {
       left: 'center',
       bottom: 0,
       formatter: function (name: string) {
-        return `${name} {count|${name}}`;
+        return ` {count|${name}}`;
       },
       textStyle: {
         rich: {
