@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Echart-barchart/static/css/main.b86bc5c8.css",
+    "main.js": "/Echart-barchart/static/js/main.58ecb9b0.js",
+    "static/js/787.99f9302f.chunk.js": "/Echart-barchart/static/js/787.99f9302f.chunk.js",
+    "index.html": "/Echart-barchart/index.html",
+    "main.b86bc5c8.css.map": "/Echart-barchart/static/css/main.b86bc5c8.css.map",
+    "main.58ecb9b0.js.map": "/Echart-barchart/static/js/main.58ecb9b0.js.map",
+    "787.99f9302f.chunk.js.map": "/Echart-barchart/static/js/787.99f9302f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b86bc5c8.css",
+    "static/js/main.58ecb9b0.js"
+  ]
+}
