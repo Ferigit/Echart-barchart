@@ -26,7 +26,6 @@ git clone https://github.com/Ferigit/Echart-barchart.git
 
 ```
 
-```
 ## Build
 
 ```bash
